@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/senentangtransport/static/css/main.884ce4be.css",
+    "main.js": "/senentangtransport/static/js/main.9ef9884a.js",
+    "static/js/787.cdae02f7.chunk.js": "/senentangtransport/static/js/787.cdae02f7.chunk.js",
+    "static/media/xpander.png": "/senentangtransport/static/media/xpander.a5a93985dc0f8cd5dffc.png",
+    "static/media/hero3.jpg": "/senentangtransport/static/media/hero3.12244df1d5f0df83de5e.jpg",
+    "static/media/hero2.jpg": "/senentangtransport/static/media/hero2.85d4d90963121fd8a48b.jpg",
+    "static/media/brioRS.png": "/senentangtransport/static/media/brioRS.ada1e03b211aa76bd59d.png",
+    "static/media/hero1.jpg": "/senentangtransport/static/media/hero1.5d4023c470e70bec6873.jpg",
+    "static/media/allNewAvanza.png": "/senentangtransport/static/media/allNewAvanza.882d536a255b8a15859f.png",
+    "static/media/mobilio.png": "/senentangtransport/static/media/mobilio.79dc146b21891edcb2be.png",
+    "static/media/newJazz.png": "/senentangtransport/static/media/newJazz.96936428d3988dcd1016.png",
+    "static/media/agya.png": "/senentangtransport/static/media/agya.febad2fb7d987686a820.png",
+    "static/media/jazz.png": "/senentangtransport/static/media/jazz.ac3d5c81f50154a8376d.png",
+    "static/media/newKijangInnova.png": "/senentangtransport/static/media/newKijangInnova.6112aad70ba6e815affb.png",
+    "static/media/calya.png": "/senentangtransport/static/media/calya.b3d48e21ac8a013bc737.png",
+    "static/media/LogoSenentangTrans.png": "/senentangtransport/static/media/LogoSenentangTrans.74dec5cf164eebd55849.png",
+    "static/media/logo.svg": "/senentangtransport/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/senentangtransport/index.html",
+    "main.884ce4be.css.map": "/senentangtransport/static/css/main.884ce4be.css.map",
+    "main.9ef9884a.js.map": "/senentangtransport/static/js/main.9ef9884a.js.map",
+    "787.cdae02f7.chunk.js.map": "/senentangtransport/static/js/787.cdae02f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.884ce4be.css",
+    "static/js/main.9ef9884a.js"
+  ]
+}
