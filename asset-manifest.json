@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/senentangtransport/static/css/main.884ce4be.css",
-    "main.js": "/senentangtransport/static/js/main.9ef9884a.js",
+    "main.js": "/senentangtransport/static/js/main.05f6cc1f.js",
     "static/js/787.cdae02f7.chunk.js": "/senentangtransport/static/js/787.cdae02f7.chunk.js",
     "static/media/xpander.png": "/senentangtransport/static/media/xpander.a5a93985dc0f8cd5dffc.png",
     "static/media/hero3.jpg": "/senentangtransport/static/media/hero3.12244df1d5f0df83de5e.jpg",
@@ -19,11 +19,11 @@
     "static/media/logo.svg": "/senentangtransport/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/senentangtransport/index.html",
     "main.884ce4be.css.map": "/senentangtransport/static/css/main.884ce4be.css.map",
-    "main.9ef9884a.js.map": "/senentangtransport/static/js/main.9ef9884a.js.map",
+    "main.05f6cc1f.js.map": "/senentangtransport/static/js/main.05f6cc1f.js.map",
     "787.cdae02f7.chunk.js.map": "/senentangtransport/static/js/787.cdae02f7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.884ce4be.css",
-    "static/js/main.9ef9884a.js"
+    "static/js/main.05f6cc1f.js"
   ]
 }
